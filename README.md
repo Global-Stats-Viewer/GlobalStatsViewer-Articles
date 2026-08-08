@@ -1,5 +1,7 @@
 # GSV Articles
-Welcome to Global Stats Viewer articles repository. If your goal is to translate text that is not an article, then check out the [translations repo](https://github.com/Global-Stats-Viewer/GlobalStatsViewer-translations). This repo consists of all articles found on the [GSV support page](https://globalstatsviewer.com/support) along with version changelogs.
+Welcome to Global Stats Viewer articles repository. If your goal is to translate text that is not an article, then check out the [translations repo](https://github.com/Global-Stats-Viewer/GlobalStatsViewer-translations). This repo consists of all articles found on the [GSV support page](https://globalstatsviewer.com/support) along with version changelogs. Articles use markdown unless stated otherwise.
+## Changelog
+Changelog does not use traditional markdown, instead:
 - keep `#` as the title
 - Every "change" should be preceded by `-`
   - By this, it is meant as every bullet point in a changelog
