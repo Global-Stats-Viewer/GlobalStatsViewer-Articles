@@ -1,8 +1,8 @@
-# Accounts & Linking
+# Accounts & Linking {id=accounts-and-linking}
 ### How to link to profiles from other sources
 -# Note: If your profile was already on the leaderboard, it is possible that some of these links have been pre-filled.
 ![Account Linking Settings](linking_settings.png)
-## Geometry Dash / Updated Leaderboard
+## Geometry Dash / Updated Leaderboard {id=gd-ul}
 To link your Global Stats Viewer account to a Geometry Dash account, **you need to be on the Updated Leaderboard to link your Discord account to your GD account.**
 If you're not on UL, the website will simply say that your GD account doesn't exist.
 Once on UL, you can click on link and Global Stats Viewer will automatically check if you own the account or not. This only works if both are linked to the same Discord account.
@@ -10,9 +10,9 @@ Learn how to get on the Updated Leaderboard [here](https://discord.gg/Uz7pd4d). 
 Make use to use **/request-verification** in case you have a **"You do not own this Geometry Dash account"** error
 If your account is approved, run the **"/profile"** command, going back to the account linking settings and clicking on link should result in your account being linked, given the Discord accounts linked to GSV and Updated Leaderboard are the same.
 If you still can't link to your GD account after a UL import, contact a staff member.
-## AREDL and Pemonlist
+## AREDL and Pemonlist {id=aredl-and-pemonlist}
 As long as you have your AREDL account and/or Pemonlist account linked with the same Discord as your Global Stats Viewer account, your accounts will be linked after clicking the Link button.
-## Pointercrate Demonlist
+## Pointercrate Demonlist {id=pointercrate}
 To link your Global Stats Viewer account to a Pointercrate account, you need to create an account with Pointercrate by accessing the Pointercrate User Area.
 ![Pointercrate Top Bar](pointercrate_top_bar.png)
 ![Pointercrate Sign-In](pointercrate_sign_in_google.png)
