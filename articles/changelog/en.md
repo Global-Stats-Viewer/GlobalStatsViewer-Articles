@@ -1,3 +1,6 @@
+# GSV Changelog
+### A list of all changes made to GSV over time.
+
 # v3 {id=changelog-v3}
 - Entirely rewrote the code of Global Stats Viewer
 - Homepage background displays the current daily level
