@@ -37,7 +37,6 @@
 - Level page disaplys downloads, likes, reward value, level ID, object count, song, and coin count
 - Difficulty face fire is animated courtesy of the [Animated Fires](https://geode-sdk.org/mods/uproxide.animated_fire) Geode mod, this can be disabled in website personalization settings
 - Additionally, there is a leaderboard of who on-site has beaten the level, the order may not be accurate to when it was beaten though
-- Added Spanish translations
 - Revamped the profile page to allow data to feel a lot less cluttered, adding an overall, classic, platformer, and creator section
 - Profile pictures may now use the Discord profile effects if they have one on Discord
 - Bios can now be written in markdown
