@@ -1,3 +1,53 @@
+# v3
+- Entirely rewrote the code of Global Stats Viewer
+- Homepage background displays the current daily level
+- Added featured achievements to the homepage, highlighting recent community accomplishments
+- Added changelog to the main website on the homepage
+- Added search filters by username, GSV ID, Discord ID, GD Account ID, AREDL, Pointercrate, and Pemonlist account
+- Added ability to search for any registered or unregistered user on the GSV database
+- Added statistic related filters for only searching users that exceed or fail to exceed a set GSV or GD stat
+- You can filter users by levels they have beat as well, with the option to require all stated levels or just one
+- You may now search multiple location related filters at once such as leaderboards from two countries at once
+- The Classic and Platformer GSV point formulas have been redone
+- Added overall leaderboards that combine stats from both Classic and Platformer
+- Level difficulties can be combined in leaderboards, allowing you to create for example a harder and insanes leaderbaord
+- Added true stars and true demons leaderboard, allowing players to see how many of each stat they would have if dailies, weeklies, and gauntlet levels did not count twice over
+- Added leaderboards for each level rating such as featured, epic, or mythic
+- Added most created daily, weekly, and event level leaderboard
+- GD icons are now uses in place of profile pictures if there is no associated Discord profile picture
+- Added a new dashboard for users to manage their completions
+- Added a graph and list in the dashboard to show when completions were recently added to Global Stats Viewer
+- Refresh completions has been moved to the dashboard under the gear icon in a menu known as Manage Completions
+- Added a difficulty breakdown for completions for both classic and platformer in Manage Completions
+- Edit data contains an entire menu for managing completions further
+- Added append info, which lets you enter your attempt count, worst fail, and enjoyment rating, along with notes you would like to share about said completion
+- Added a custom demonlist, letting users order their completions by how hard they think the levels are
+- Added difficulty opinions menu to allow the user to further specify difficulty by NLW/LW and GDDL tier, along with in-between tiers in case a user is unsure of which two tiers a level should belong in
+- Created a spreadsheet generator that creates a spreadsheet based on your completions that can be sorted by name, difficulty, attempts, date, position, enjoyment, and rating
+- Added the ability to import a save file from Geometry Dash to the website, requires a /profile command on the Updated Leaderboard before you can import
+- Created an initial batch of achievements, more to come soon
+- Ranks have been created, allowing you to progressively increase your tier by completing demons and extreme demons, along with gaining stars and moons
+- There is also an overall rank that can be obtained by have 3 of the 4 stat based ranks fufilled
+- A brand new level browser has been added to Global Stats Viewer
+- Added search filters by gamemode, rating, difficulty, and collection (daily, weekly, event)
+- Additionally, conditional filters have been added based on if a level has greater or less than a desired stat such as downloads or likes
+- Level page disaplys downloads, likes, reward value, level ID, object count, song, and coin count
+- Difficulty face fire is animated courtesy of the [Animated Fires](https://geode-sdk.org/mods/uproxide.animated_fire) Geode mod, this can be disabled in website personalization settings
+- Additionally, there is a leaderboard of who on-site has beaten the level, the order may not be accurate to when it was beaten though
+- Added Spanish translations
+- Revamped the profile page to allow data to feel a lot less cluttered, adding an overall, classic, platformer, and creator section
+- Profile pictures may now use the Discord profile effects if they have one on Discord
+- Bios can now be written in markdown
+- Each icon in the displayed icon set can be clicked on to send you to the [GDBrowser](https://gdbrowser.com/) icon kit
+- The overview tab contains hardest levels, GSV point values, and completion difficulty breakdowns
+- The completion tab shows a summary of all rated levels completed, providing you with a percentage of all rated levels in the game complete as well
+- Clicking on a difficulty will show which levels the user has completed in the difficulty along with completion stats from completion manager, given the user has done a save file import
+- Added an opinions viewer for each profile page, allowing the viewing of the player's difficulty opinions for both Classic and Platformer levels
+- Added a created levels tab, showing what rated levels an account has, by rating and difficulty, along with a search field
+- Created a comparison page on the profile page, allowing one account to be compared to another with stats, hardest completions, completions per difficulty, and GSV points for both Classic and Platformer
+- Added option to display playing device as PC or Mobile
+- Added the ability to unlink an account if needed
+- Added new website themes, currently hosting classic, slate, fire, emerald, gold, and dark
 # v2.3
 - Added a brand new [support and FAQ page](https://globalstatsviewer.com/support)
 - Accounts can now be linked with the Pointercrate Demon List without having to be manually approved by staff, the guide to do so can be found [here](https://globalstatsviewer.com/support/accounts-linking)
@@ -41,7 +91,7 @@
   - Level thumbnails appear on profile backgrounds, player cards on the leaderboards, and the account's hardest demons list
 - Users can choose an accent color for their profile
 - Improved alert system
-# v2.1.0
+# v2.1
 - Added support for platformer levels
    - New "divided" profile with Classic & Platformers
    - All leaderboards now support Platformers
@@ -53,7 +103,7 @@
 - Fixed a bug where a user's bio would overflow on mobile devices
 - Fixed a bug where the spreadsheet generator would straight up not work
 - Fixed a CSS issue where long demon names would overflow on mobile in the user page, making the info option unclickable.
-# v2.0.0
+# v2
 - Initial release of new website
 - Brand new design
 - Over 10 new leaderboard types 
