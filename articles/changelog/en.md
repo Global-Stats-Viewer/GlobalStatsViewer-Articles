@@ -1,7 +1,7 @@
 # GSV Changelog
 ### A list of all changes made to GSV over time.
 
-# v3 {id=changelog-v3}
+## v3 {id=changelog-v3}
 - Entirely rewrote the code of Global Stats Viewer
 - Homepage background displays the current daily level
 - Added featured achievements to the homepage, highlighting recent community accomplishments
@@ -51,7 +51,7 @@
 - Added option to display playing device as PC or Mobile
 - Added the ability to unlink an account if needed
 - Added new website themes, currently hosting classic, slate, fire, emerald, gold, and dark
-# v2.3 {id=changelog-v2-3}
+## v2.3 {id=changelog-v2-3}
 - Added a brand new [support and FAQ page](https://globalstatsviewer.com/support)
 - Accounts can now be linked with the Pointercrate Demon List without having to be manually approved by staff, the guide to do so can be found [here](https://globalstatsviewer.com/support/accounts-linking)
   - With this, manual Pointercrate request are no longer a feature
@@ -70,17 +70,17 @@
 - Switched to a new SQL database known as Postgres
 - Created tons of new staff tools and a staff area to allow GSV to not be reliant on a Discord bot
 - The Global Stats Viewer API is now properly documented [here](https://api.globalstatsviewer.com/docs)
-# v2.2.2 {id=changelog-v2-2-2}
+## v2.2.2 {id=changelog-v2-2-2}
 - Show "Levels" instead of "Points" for level count leaderboards
 - Fixed rankings sometimes appearing as `null`
 - Fixed syncing completions not working
-# v2.2.1 {id=changelog-v2-2-1}
+## v2.2.1 {id=changelog-v2-2-1}
 - Favorite level selector now lets you choose both classic & platformer levels
 - Notifications system
 - Auto UL import with notifications when your GD stats got refreshed
 - Leaderboards for Dailies, Weeklies and Gauntlets
 - Fixed a bug where new users would have their rank set to `-1` for a bit.
-# v2.2 {id=changelog-v2-2}
+## v2.2 {id=changelog-v2-2}
 - Platformer leaderboard now selectable without needing to go to a filters menu
 - Added leaderboard for in-game stats
   - These include stars, diamonds, secret and user coins, and creator points
@@ -94,7 +94,7 @@
   - Level thumbnails appear on profile backgrounds, player cards on the leaderboards, and the account's hardest demons list
 - Users can choose an accent color for their profile
 - Improved alert system
-# v2.1 {id=changelog-v2-1}
+## v2.1 {id=changelog-v2-1}
 - Added support for platformer levels
    - New "divided" profile with Classic & Platformers
    - All leaderboards now support Platformers
@@ -106,7 +106,7 @@
 - Fixed a bug where a user's bio would overflow on mobile devices
 - Fixed a bug where the spreadsheet generator would straight up not work
 - Fixed a CSS issue where long demon names would overflow on mobile in the user page, making the info option unclickable.
-# v2 {id=changelog-v2}
+## v2 {id=changelog-v2}
 - Initial release of new website
 - Brand new design
 - Over 10 new leaderboard types 
@@ -114,16 +114,16 @@
 - Instant AREDL & GD Link
 - 28000+ Fetched users for a more accurate position (~"in community" position instead of gsv-exclusive)
 - Possibility to add more detailed info to your completions & export them as a spreadsheet
-# v1.1 {id=changelog-v1-1}
+## v1.1 {id=changelog-v1-1}
 - Added Weekly Extremes
 - Fixed Players Tab being a copy of leaderboards. It now returns every user on the website.
 - Made Infinite Demon face animated
-# v1.0.2 {id=changelog-v1-0-2}
+## v1.0.2 {id=changelog-v1-0-2}
 - Fixed Deadlocked, Clubstep, Toe II not displaying difficulty faces
 - Fixed an exploit where list % and denied records on pointercrate (again) would count as completions in a user's extremes list
 - Fixed a bug where difficulty faces wouldn't load in the leaderboard when the url finished with `"/"`
 - Fixed broken unavailable pfps by displaying a blank pfp instead
-# v1.0.1 {id=changelog-v1-0-1}
+## v1.0.1 {id=changelog-v1-0-1}
 - Fixed missing profile pictures on some accounts
 - Fixed missing difficulty faces on some profiles
 - Fixed GD Stats not updating
@@ -134,5 +134,5 @@
 - Fixed a bug where extremes composed of only numbers would show up at the top of your demonlist
 - Added GD DMs to `Error -1` message
 - Added 25 Extremes Badge
-# v1.0 {id=changelog-v1}
+## v1.0 {id=changelog-v1}
 - Initial release
