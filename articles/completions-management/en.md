@@ -1,6 +1,6 @@
 # Completions Management {id=completions-management}
-### Add, Manage, and Edit Data to your Completions {id=add-manage-edit}
--# Note: It is reccomended you read the [account linking](https://globalstatsviewer.com/support/account-linking) article first, as this article will assume you have already linked your accounts to your necessary sources
+### Add, Manage, and Edit Data to your Completions
+-# It is reccomended you read the [account linking](https://globalstatsviewer.com/support/account-linking) article first, as this article will assume you have already linked your accounts to your necessary sources
 ## Dashboard Overview {id=overview}
 After linking to all the sources you have, the dashboard is the page you should visit, this will allow you to manage your completions. Below is how a completed Dashboard looks like, but at first, your data might not all be present. On the left side of the screen, a bar will be present that contains all the pages present in the dashboard.
 ![Dashboard](header_dashboard.png)
